@@ -52,16 +52,13 @@ java <ClassName>
 Java basics including programming elements, control flows, arrays, strings, and methods.
 All submissions completed via **GCR codebase practices**.
 
-| Topic                          | Material Date | Assignment Submission                          | Key Files / Folders                  | Status      |
-| ------------------------------ | ------------- | ---------------------------------------------- | ------------------------------------ | ----------- |
-| 01 - Java Programming Elements | Dec 18        | Programming Elements Practices (Dec 19, 11:30) | `gcr-codebase/programming-elements/` | Submitted ✅ |
-| 02 - Java Control Flows        | Dec 19        | Control Flow Practices (Dec 20, 11:59)         | `gcr-codebase/control-flow/`         | Submitted ✅ |
-| 03 - Java Arrays               | Dec 20        | Arrays Practices (Dec 20, 23:59)               | `gcr-codebase/arrays/`               | Submitted ✅ |
-| 05 - Java String               | Dec 20        | Java String Practices (Dec 24, 18:00)          | `gcr-codebase/strings/`              | Submitted ✅ |
-| 04 - Java Methods              | Dec 22        | Java Methods Practices (Dec 23, 18:00)         | `gcr-codebase/methods/`              | Submitted ✅ |
-
-**Highlights:**
-Implemented core constructs with proper input/output handling and clean code standards ✨
+| Topic                          | Material Date | Assignment Submission                          | Source Path (GitHub)                                                                                                                                                                                                                                         | Status      |
+| ------------------------------ | ------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 01 - Java Programming Elements | Dec 18        | Programming Elements Practices (Dec 19, 11:30) | [https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements](https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements) | Submitted ✅ |
+| 02 - Java Control Flows        | Dec 19        | Control Flow Practices (Dec 20, 11:59)         | [https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow](https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)                 | Submitted ✅ |
+| 03 - Java Arrays               | Dec 20        | Arrays Practices (Dec 20, 23:59)               | [https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays](https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)                             | Submitted ✅ |
+| 05 - Java String               | Dec 20        | Java String Practices (Dec 24, 18:00)          | [https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings](https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)                           | Submitted ✅ |
+| 04 - Java Methods              | Dec 22        | Java Methods Practices (Dec 23, 18:00)         | [https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods](https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)                           | Submitted ✅ |
 
 ---
 
@@ -70,21 +67,15 @@ Implemented core constructs with proper input/output handling and clean code sta
 **Completed – Dec 22–31, 2025** ✅
 **Branch:** `oops-practice`
 
-**Focus:**
-OOP fundamentals, constructors, Java keywords, object modeling, inheritance, encapsulation, interfaces, and polymorphism.
-
-| Topic                                                         | Material Date | Assignment Submission                   | Key Files / Folders                        | Status      |
-| ------------------------------------------------------------- | ------------- | --------------------------------------- | ------------------------------------------ | ----------- |
-| Employee Wage Computation Problem                             | —             | Dec 31, 23:59                           | `scenario-based/employee-wage/`            | Submitted ✅ |
-| 01 - OOP Fundamentals                                         | Dec 22        | Java Class and Object                   | `gcr-codebase/oop-fundamentals/`           | Submitted ✅ |
-| 02 - Constructors, Instance/Class Vars, Access Modifiers      | Dec 22        | Level 1 Lab Practice                    | `gcr-codebase/constructors-access/`        | Submitted ✅ |
-| 03 - this, static, final, instanceof                          | Dec 23        | Level 1 Lab Practice                    | `gcr-codebase/keywords/`                   | Submitted ✅ |
-| 04 - Object Modeling, Class Diagram                           | Dec 23        | OOP Design Principles                   | `gcr-codebase/object-modeling/`            | Submitted ✅ |
-| 05 - Inheritance                                              | Dec 23        | Inheritance Submission                  | `gcr-codebase/inheritance/`                | Submitted ✅ |
-| 06 - Encapsulation, Interface, Abstract Classes, Polymorphism | Dec 23        | Encapsulation / Polymorphism Submission | `gcr-codebase/encapsulation-polymorphism/` | Submitted ✅ |
-
-**Highlights:**
-Designed class hierarchies and applied real-world OOP principles; integrated multiple concepts in Employee Wage project 🔗
+| Topic                                                         | Material Date | Assignment Submission                   | Source Path (GitHub)                                                                                                                                                                                                                                 | Status      |
+| ------------------------------------------------------------- | ------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Employee Wage Computation Problem                             | —             | Dec 31, 23:59                           | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/employee-wage](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/employee-wage)                           | Submitted ✅ |
+| 01 - OOP Fundamentals                                         | Dec 22        | Java Class and Object                   | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oop-fundamentals](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oop-fundamentals)                     | Submitted ✅ |
+| 02 - Constructors, Instance/Class Vars, Access Modifiers      | Dec 22        | Level 1 Lab Practice                    | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-access](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-access)               | Submitted ✅ |
+| 03 - this, static, final, instanceof                          | Dec 23        | Level 1 Lab Practice                    | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords)                                     | Submitted ✅ |
+| 04 - Object Modeling, Class Diagram                           | Dec 23        | OOP Design Principles                   | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modeling](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modeling)                       | Submitted ✅ |
+| 05 - Inheritance                                              | Dec 23        | Inheritance Submission                  | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)                               | Submitted ✅ |
+| 06 - Encapsulation, Interface, Abstract Classes, Polymorphism | Dec 23        | Encapsulation / Polymorphism Submission | [https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism](https://github.com/harit789/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism) | Submitted ✅ |
 
 ---
 
@@ -93,19 +84,13 @@ Designed class hierarchies and applied real-world OOP principles; integrated mul
 **Completed – Dec 29, 2025 – Jan 1, 2026** ✅
 **Branch:** `dsa-practice`
 
-**Focus:**
-Linear data structures, stacks, queues, hashing, sorting, searching, and runtime analysis.
-
-| Topic                                                       | Material Date | Assignment Submission           | Key Files / Folders           | Status      |
-| ----------------------------------------------------------- | ------------- | ------------------------------- | ----------------------------- | ----------- |
-| 01 - DS Intro & LinkedList                                  | Dec 29        | LinkedList Submission           | `linear-ds/linkedlist/`       | Submitted ✅ |
-| 02 - Stack, Queue, HashMap, Hashing                         | Dec 29        | Stack/Queue/HashMap Submission  | `linear-ds/stack-queue-hash/` | Submitted ✅ |
-| 03 - Sorting Algorithms                                     | Dec 30        | Sorting Algorithms Submission   | `algorithms/sorting/`         | Submitted ✅ |
-| 04–05 - Linear/Binary Search, StringBuilder/Buffer, Readers | Dec 30        | Linear/Binary Search Submission | `algorithms/search/`          | Submitted ✅ |
-| 06 - Runtime Analysis & Big-O                               | Jan 1         | Big-O Notation Submission       | `algorithms/big-o/`           | Submitted ✅ |
-
-**Highlights:**
-Implemented custom data structures from scratch and analyzed time/space complexity for interview preparation ⚡
+| Topic                                                       | Material Date | Assignment Submission           | Source Path (GitHub)                                                                                                                                                                                                         | Status      |
+| ----------------------------------------------------------- | ------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 01 - DS Intro & LinkedList                                  | Dec 29        | LinkedList Submission           | [https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list](https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)           | Submitted ✅ |
+| 02 - Stack, Queue, HashMap, Hashing                         | Dec 29        | Stack/Queue/HashMap Submission  | [https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hash](https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hash) | Submitted ✅ |
+| 03 - Sorting Algorithms                                     | Dec 30        | Sorting Algorithms Submission   | [https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting](https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)                   | Submitted ✅ |
+| 04–05 - Linear/Binary Search, StringBuilder/Buffer, Readers | Dec 30        | Linear/Binary Search Submission | [https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching](https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching)               | Submitted ✅ |
+| 06 - Runtime Analysis & Big-O                               | Jan 1         | Big-O Notation Submission       | [https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/big-o](https://github.com/harit789/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/big-o)                       | Submitted ✅ |
 
 ---
 
@@ -114,26 +99,10 @@ Implemented custom data structures from scratch and analyzed time/space complexi
 **In Progress – Jan 2–3, 2026** 🔄
 **Branch:** `collection-practice`
 
-**Focus:**
-Generics and Java Collections Framework.
-
-| Topic              | Material Date | Assignment Submission    | Key Files / Folders     | Status         |
-| ------------------ | ------------- | ------------------------ | ----------------------- | -------------- |
-| 01 - Java Generics | Jan 2         | Java Generics Submission | `collections/generics/` | Submitted ✅    |
-| 02 - Collections   | Jan 3         | Collections Submission   | `collections/`          | In Progress 🔄 |
-
-**Highlights:**
-Working with parameterized types and collection implementations; Stream API coming next 🌊
-
----
-
-## 🗂️ Repository Structure
-
-* `main` – Prerequisites, setup files, and README
-* `core-java-practice` – Week 01 core programming
-* `oops-practice` – Week 02 OOP
-* `dsa-practice` – Week 03 DSA
-* `collection-practice` – Week 04 Collections
+| Topic              | Material Date | Assignment Submission    | Source Path (GitHub)                                                                                                                                                                                                                           | Status         |
+| ------------------ | ------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| 01 - Java Generics | Jan 2         | Java Generics Submission | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)       | Submitted ✅    |
+| 02 - Collections   | Jan 3         | Collections Submission   | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections) | In Progress 🔄 |
 
 ---
 
@@ -152,9 +121,7 @@ New branches will be created weekly (e.g., `advanced-java`) 📅
 * Followed BridgeLabz Coding Standards (naming, comments, modularity) ✅
 * Git for version control
 * Oracle Java Documentation
-* GeeksforGeeks for DSA reference
-
-⭐ Feel free to explore, raise issues, or star the repository!
+  ⭐ Feel free to explore, raise issues, or star the repository!
 
 ---
 
