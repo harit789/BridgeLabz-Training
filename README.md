@@ -94,17 +94,18 @@ All submissions completed via **GCR codebase practices**.
 
 ---
 
-### 🟡 Week 04: Java Collections & Streams
+### 🟢 Week 04: Java Collections & Streams
 
-**In Progress – Jan 2–3, 2026** 🔄
+**Completed – Jan 2–7, 2026** ✅  
 **Branch:** `collection-practice`
 
-| Topic              | Material Date | Assignment Submission    | Source Path (GitHub)                                                                                                                                                                                                                           | Status         |
-| ------------------ | ------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| 01 - Java Generics | Jan 2         | Java Generics Submission | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)       | Submitted ✅    |
-| 02 - Collections   | Jan 3         | Collections Submission   | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections) | In Progress 🔄 |
+| Topic              | Material Date | Assignment Submission    | Source Path (GitHub)                                                                                                                                                                                                                           | Status      |
+|--------------------|--------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 01 - Java Generics | Jan 2         | Java Generics Submission | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)           | Submitted ✅ |
+| 02 - Collections  | Jan 3         | Collections Submission   | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections)   | Submitted ✅ |
+| 03 - Java Streams | Jan 5         | Java Streams Submission  | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)           | Submitted ✅ |
+| 04 - Exceptions   | Jan 7         | Exceptions Submission    | [https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptions](https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptions)     | Submitted ✅ |
 
----
 
 ## 🔮 Future Weeks (Planned)
 
