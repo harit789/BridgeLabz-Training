@@ -1,4 +1,4 @@
-import RemoveDuplicateFromSortedList.ListNode;
+
 
 public class RemoveDuplicateFromSortedList {
 
