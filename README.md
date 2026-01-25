@@ -116,6 +116,26 @@ All submissions completed via **GCR codebase practices**.
 | 06 - Annotations, Reflection | Jan 13        | Annotations & Reflection Submission    | https://github.com/harit789/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotations-reflection                                                                                                              | Submitted ✅ |
 
 
+### 🟢 Week 05: IO Programming
+
+**Completed – Jan 19–20, 2026** ✅  
+**Branch:** `io-programming-practice`
+
+| Topic                   | Material Date | Assignment Submission        | Source Path (GitHub)                                                                                                                                                                                                                           | Status       |
+|-------------------------|--------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 01 - CSV Data Handling  | Jan 19        | IO Programming Submission    | https://github.com/harit789/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling                                                                                                            | Submitted ✅ |
+| 02 - JSON Data Handling | Jan 20        | JSON Data Submission         | https://github.com/harit789/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data-handling                                                                                                           | Submitted ✅ |
+
+
+### 🟢 Week 06: Java 8 & Its Features
+
+**Completed – Jan 21, 2026** ✅  
+**Branch:** `java8-features-practice`
+
+| Topic                     | Material Date | Assignment Submission              | Source Path (GitHub)                                                                                                                                                                                                                           | Status       |
+|---------------------------|--------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 01 - Lambda Expressions   | Jan 21        | Lambda Expressions Submission      | https://github.com/harit789/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expressions                                                                                                           | Submitted ✅ |
+
 
 ## 🔮 Future Weeks (Planned)
 
