@@ -101,6 +101,14 @@ All submissions completed via **GCR codebase practices**.
 
 ---
 
+#### 🧩 Scenario-Based Problems (Week 03)
+
+| Scenario Problem     | Description                                                                                                                                                                                                 | Source Path (GitHub) | Status |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------|
+| Sentence Formatter   | A text editing utility that auto-corrects poorly formatted input by ensuring proper spacing after punctuation, capitalizing the first letter of each sentence, and trimming extra spaces.                     | https://github.com/harit789/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/SentenceForamtter.java | Completed ✅ |
+| Text Analyzer        | A text analysis program that counts words, identifies the longest word, replaces occurrences of a specified word (case-insensitive), and safely handles edge cases like empty or whitespace-only input. | https://github.com/harit789/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based/TextAnalyzer.java | Completed ✅ |
+
+
 ### 🟢 Week 04: Java Collections & Streams
 
 **Completed – Jan 2–13, 2026** ✅  
