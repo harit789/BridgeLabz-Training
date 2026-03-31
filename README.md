@@ -61,6 +61,13 @@ All submissions completed via **GCR codebase practices**.
 | 04 - Java Methods              | Dec 22        | Java Methods Practices (Dec 23, 18:00)         | [https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods](https://github.com/harit789/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)                           | Submitted ✅ |
 
 ---
+### 🧩 Scenario-Based Problems (Week 01)
+
+| Scenario Problem | Description | Source Path (GitHub) | Status |
+|------------------|-------------|----------------------|--------|
+| Coffee Counter | Real-world Java problem demonstrating variables, operators, basic I/O, conditional logic, loops, and clean coding practices. | https://github.com/harit789/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/CoffeeCounter.java | Completed ✅ |
+| Fitness Tracker | Scenario-based Java implementation applying primitive data types, control flow, loops, conditional statements, and structured coding standards. | https://github.com/harit789/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/FitnessTracker.java | Completed ✅ |
+
 
 ### 🟢 Week 02: Object-Oriented Programming
 
